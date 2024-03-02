@@ -24,7 +24,7 @@ export const SearchBarInput = forwardRef<HTMLInputElement, SearchBarProps>(
     return (
       <Flare.Base
         className={c({
-          "hover:flare-enabled group flex flex-col rounded-[28px] transition-colors sm:flex-row sm:items-center relative":
+          "hover:flare-enabled group flex flex-col rounded-lg transition-colors sm:flex-row sm:items-center relative":
             true,
           "bg-search-background": !focused,
           "bg-search-focused": focused,
@@ -33,7 +33,7 @@ export const SearchBarInput = forwardRef<HTMLInputElement, SearchBarProps>(
         <Flare.Light
           flareSize={400}
           enabled={focused}
-          className="rounded-[28px]"
+          className="rounded-lg"
           backgroundClass={c({
             "transition-colors": true,
             "bg-search-background": !focused,
@@ -66,7 +66,7 @@ export const SearchBarInput = forwardRef<HTMLInputElement, SearchBarProps>(
                   ref.current?.focus();
                 }
               }}
-              className="cursor-pointer hover:text-white  absolute bottom-0 right-2 top-0 flex justify-center my-auto h-10 w-10 items-center hover:bg-search-hoverBackground active:scale-110 text-search-icon rounded-full transition-[transform,background-color] duration-200"
+              className="cursor-pointer hover:text-red-600  absolute bottom-0 right-2 top-0 flex justify-center my-auto h-10 w-10 items-center hover:bg-search-hoverBackground active:scale-110 text-search-icon rounded-full transition-[transform,background-color] duration-200"
             >
               <Icon icon={Icons.X} className="transition-colors duration-200" />
             </div>

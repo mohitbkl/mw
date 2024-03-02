@@ -1,0 +1,428 @@
+{
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/gzlprPDmKCS4bUT4BxQZmJfpMX9.jpg",
+        "id": 636706,
+        "title": "Spaceman",
+        "original_language": "en",
+        "original_title": "Spaceman",
+        "overview": "During a research mission, an astronaut discovers that his marriage is in trouble. Luckily, he has the help of a mysterious creature hidden in his ship.",
+        "poster_path": "/5hnFFOWEchErNVr0wMLWFEob3q1.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          878,
+          18
+        ],
+        "popularity": 77.58,
+        "release_date": "2024-02-23",
+        "video": false,
+        "vote_average": 6.096,
+        "vote_count": 26
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qBQV4i2sjIydDJUKm7pwvpyfy5p.jpg",
+        "id": 693134,
+        "title": "Dune: Part Two",
+        "original_language": "en",
+        "original_title": "Dune: Part Two",
+        "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+        "poster_path": "/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
+        "popularity": 1312.486,
+        "release_date": "2024-02-27",
+        "video": false,
+        "vote_average": 8.455,
+        "vote_count": 342
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ekRp1sEA8pnuzVHQkUESTgNSKdW.jpg",
+        "id": 932420,
+        "title": "Code 8 Part II",
+        "original_language": "en",
+        "original_title": "Code 8 Part II",
+        "overview": "In a world where superpowered people are heavily policed by robots, an ex-con teams up with a drug lord he despises to protect a teen from a corrupt cop.",
+        "poster_path": "/hhvMTxlTZtnCOe7YFhod9uz3m37.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          878,
+          28
+        ],
+        "popularity": 162.404,
+        "release_date": "2024-02-27",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 65
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bQS43HSLZzMjZkcHJz4fGc7fNdz.jpg",
+        "id": 792307,
+        "title": "Poor Things",
+        "original_language": "en",
+        "original_title": "Poor Things",
+        "overview": "Brought back to life by an unorthodox scientist, a young woman runs off with a debauched lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.",
+        "poster_path": "/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          878,
+          10749,
+          35
+        ],
+        "popularity": 1357.698,
+        "release_date": "2023-12-07",
+        "video": false,
+        "vote_average": 8.065,
+        "vote_count": 1568
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5zmiBoMzeeVdQ62no55JOJMY498.jpg",
+        "id": 126308,
+        "name": "Shōgun",
+        "original_language": "en",
+        "original_name": "Shōgun",
+        "overview": "In Japan in the year 1600, at the dawn of a century-defining civil war, Lord Yoshii Toranaga is fighting for his life as his enemies on the Council of Regents unite against him, when a mysterious European ship is found marooned in a nearby fishing village.",
+        "poster_path": "/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+          18,
+          10768
+        ],
+        "popularity": 1037.883,
+        "first_air_date": "2024-02-27",
+        "vote_average": 8.915,
+        "vote_count": 71,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lzWHmYdfeFiMIY4JaMmtR7GEli3.jpg",
+        "id": 438631,
+        "title": "Dune",
+        "original_language": "en",
+        "original_title": "Dune",
+        "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
+        "poster_path": "/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          878,
+          12
+        ],
+        "popularity": 971.148,
+        "release_date": "2021-09-15",
+        "video": false,
+        "vote_average": 7.789,
+        "vote_count": 10299
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pI6XfJlBcFs9iq7SfSWsQZyYjE8.jpg",
+        "id": 1046090,
+        "title": "The Pig, the Snake and the Pigeon",
+        "original_language": "zh",
+        "original_title": "周處除三害",
+        "overview": "The arrogant, third most-wanted criminal in Taiwan, decides to get rid of the top two competitors and crowns himself the most-wanted criminal before dying.",
+        "poster_path": "/7IJ7F8tX7IAkpUdaGovOBJqORnJ.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          28,
+          80
+        ],
+        "popularity": 65.061,
+        "release_date": "2023-10-06",
+        "video": false,
+        "vote_average": 8.071,
+        "vote_count": 14
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/n9NMlYd4TrSPErkRctNJaeTkGCM.jpg",
+        "id": 461130,
+        "title": "Code 8",
+        "original_language": "en",
+        "original_title": "Code 8",
+        "overview": "In Lincoln City, some inhabitants have extraordinary abilities. Most live below the poverty line, under the close surveillance of a heavily militarized police force. Connor, a construction worker with powers, involves with a criminal gang to help his ailing mother. (Based on the short film “Code 8,” 2016.)",
+        "poster_path": "/izGX7npHEopDQvngYcxMJEfcFbj.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          878,
+          28,
+          80
+        ],
+        "popularity": 127.938,
+        "release_date": "2019-12-06",
+        "video": false,
+        "vote_average": 6.201,
+        "vote_count": 1681
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2SJ6OOyK8tWaKF7W7PzYxOKKStZ.jpg",
+        "id": 203667,
+        "name": "Red Queen",
+        "original_language": "es",
+        "original_name": "Reina roja",
+        "overview": "A gifted woman's intellect brings chance to lead covert European police force. But it backfires, costing her everything. Following murder at her home and kidnapped heiress, her ex-supervisor enlists a policeman's aid to reinstate her.",
+        "poster_path": "/lk7LVXYSOO5rReR2jzLo8Le3cO1.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+          10759,
+          9648
+        ],
+        "popularity": 101.238,
+        "first_air_date": "2024-02-29",
+        "vote_average": 7.6,
+        "vote_count": 10,
+        "origin_country": [
+          "ES"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uYdx9CrzEZk17tzVyvEq6mca0fZ.jpg",
+        "id": 1239251,
+        "title": "Megamind vs. the Doom Syndicate",
+        "original_language": "en",
+        "original_title": "Megamind vs. the Doom Syndicate",
+        "overview": "Megamind's former villain team, The Doom Syndicate, has returned. Our newly crowned blue hero must now keep up evil appearances until he can assemble his friends (Roxanne, Ol' Chum and Keiko) to stop his former evil teammates from launching Metro City to the Moon.",
+        "poster_path": "/yRZfiG1QpRkBc7fAmxfcR7Md5EC.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          16,
+          35,
+          878
+        ],
+        "popularity": 75.572,
+        "release_date": "2024-03-01",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vWVmlnQnTjqB2MpGD9CtRitep0a.jpg",
+        "id": 1039882,
+        "title": "My Name Is Loh Kiwan",
+        "original_language": "ko",
+        "original_title": "로기완",
+        "overview": "After defecting from North Korea, Loh Kiwan struggles to obtain refugee status in Belgium, where he encounters a dejected woman who has lost all hope.",
+        "poster_path": "/x4BkphLO6abbGhceYEMhJERkvHo.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "popularity": 20.251,
+        "release_date": "2024-02-19",
+        "video": false,
+        "vote_average": 7.25,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uuENYheIMOIo2IEM4iCsE0ou7T3.jpg",
+        "id": 197459,
+        "name": "The Completely Made-Up Adventures of Dick Turpin",
+        "original_language": "en",
+        "original_name": "The Completely Made-Up Adventures of Dick Turpin",
+        "overview": "Legendary highwayman Dick Turpin sets out on a series of wildly absurd escapades when he's made the reluctant leader of a band of outlaws—and tasked with outwitting utterly corrupt lawman Jonathan Wilde.",
+        "poster_path": "/lYQpsmKGaClcLJPB7hulsxmoZO6.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+          35,
+          10759
+        ],
+        "popularity": 91.883,
+        "first_air_date": "2024-03-01",
+        "vote_average": 7,
+        "vote_count": 4,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zW0v2YT74C6tRafzqqBkfSqLAN0.jpg",
+        "id": 52814,
+        "name": "Halo",
+        "original_language": "en",
+        "original_name": "Halo",
+        "overview": "Depicting an epic 26th-century conflict between humanity and an alien threat known as the Covenant, the series weaves deeply drawn personal stories with action, adventure and a richly imagined vision of the future.",
+        "poster_path": "/hmHA5jqxN3ESIAGx0jAwV7TJhTQ.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+          10759,
+          10765
+        ],
+        "popularity": 3041.341,
+        "first_air_date": "2022-03-24",
+        "vote_average": 8.34,
+        "vote_count": 2305,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lK5EUC8KkgwQ5W7nFTc198ZgB4J.jpg",
+        "id": 993784,
+        "title": "Lisa Frankenstein",
+        "original_language": "en",
+        "original_title": "Lisa Frankenstein",
+        "overview": "In 1989, a misunderstood teenager has a high school crush — who just happens to be a handsome corpse! After a set of playfully horrific circumstances bring him back to life, the two embark on a murderous journey to find love, happiness…and a few missing body parts along the way.",
+        "poster_path": "/mdPnNWU05ivcVp0rF2Dv9n5Maf4.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          35,
+          27,
+          10749
+        ],
+        "popularity": 169.277,
+        "release_date": "2024-02-07",
+        "video": false,
+        "vote_average": 6.192,
+        "vote_count": 52
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
+        "id": 866398,
+        "title": "The Beekeeper",
+        "original_language": "en",
+        "original_title": "The Beekeeper",
+        "overview": "One man’s campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as Beekeepers.",
+        "poster_path": "/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          28,
+          53,
+          18
+        ],
+        "popularity": 442.539,
+        "release_date": "2024-01-10",
+        "video": false,
+        "vote_average": 7.416,
+        "vote_count": 1463
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4W9kyBFT69ORP5Jzk9mVMGBBO4R.jpg",
+        "id": 206586,
+        "name": "The Walking Dead: The Ones Who Live",
+        "original_language": "en",
+        "original_name": "The Walking Dead: The Ones Who Live",
+        "overview": "The love story of Rick Grimes and Michonne is changed by a changed world. Kept apart by distance. By an unstoppable power. Can they find each other and who they were in a situation unlike any they've ever known?",
+        "poster_path": "/ywbacot78IuNhGW4uVZPxxxVTkm.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 1606.234,
+        "first_air_date": "2024-02-25",
+        "vote_average": 8.668,
+        "vote_count": 92,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dmiN2rakG9hZW04Xx7mHOoHTOyD.jpg",
+        "id": 673593,
+        "title": "Mean Girls",
+        "original_language": "en",
+        "original_title": "Mean Girls",
+        "overview": "New student Cady Heron is welcomed into the top of the social food chain by the elite group of popular girls called ‘The Plastics,’ ruled by the conniving queen bee Regina George and her minions Gretchen and Karen. However, when Cady makes the major misstep of falling for Regina’s ex-boyfriend Aaron Samuels, she finds herself prey in Regina’s crosshairs. As Cady sets to take down the group’s apex predator with the help of her outcast friends Janis and Damian, she must learn how to stay true to herself while navigating the most cutthroat jungle of all: high school.",
+        "poster_path": "/fbbj3viSUDEGT1fFFMNpHP1iUjw.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 377.731,
+        "release_date": "2024-01-10",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 211
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yOm993lsJyPmBodlYjgpPwBjXP9.jpg",
+        "id": 787699,
+        "title": "Wonka",
+        "original_language": "en",
+        "original_title": "Wonka",
+        "overview": "Willy Wonka – chock-full of ideas and determined to change the world one delectable bite at a time – is proof that the best things in life begin with a dream, and if you’re lucky enough to meet Willy Wonka, anything is possible.",
+        "poster_path": "/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          35,
+          10751,
+          14
+        ],
+        "popularity": 689.639,
+        "release_date": "2023-12-06",
+        "video": false,
+        "vote_average": 7.207,
+        "vote_count": 2330
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/u62XtaV8Iski2CgAUM8Yp0ZgKxD.jpg",
+        "id": 82452,
+        "name": "Avatar: The Last Airbender",
+        "original_language": "en",
+        "original_name": "Avatar: The Last Airbender",
+        "overview": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enemy bent on stopping him.",
+        "poster_path": "/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 1939.567,
+        "first_air_date": "2024-02-22",
+        "vote_average": 8.275,
+        "vote_count": 340,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6snBXmgkscLEJQmxx46qEIlqYlB.jpg",
+        "id": 46518,
+        "name": "Masters of the Air",
+        "original_language": "en",
+        "original_name": "Masters of the Air",
+        "overview": "During World War II, airmen risk their lives with the 100th Bomb Group, a brotherhood forged by courage, loss, and triumph.",
+        "poster_path": "/rSAmgcoA74371rplbqM27yVsd3y.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+          10768,
+          18
+        ],
+        "popularity": 404.32,
+        "first_air_date": "2024-01-25",
+        "vote_average": 7.8,
+        "vote_count": 119,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 1000,
+    "total_results": 20000
+  }
